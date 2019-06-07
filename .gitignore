@@ -1,0 +1,9 @@
+Othello/.vs/
+*.ilk
+Othello/Debug/Othello.pdb
+*.obj
+*.log
+*.idb
+*.tlog
+*.pdb
+*.exe
